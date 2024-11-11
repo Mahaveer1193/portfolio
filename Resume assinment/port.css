@@ -1,0 +1,46 @@
+    #h1{
+        background-color: #15b8c4;
+        margin-top: 10px;
+    }
+    button:hover{
+        
+        background-color:rgb(164, 47, 131) ;
+        transition: 2s;
+    }
+    body{
+        background-color: #548e87;
+    }
+    
+    .accordion{
+        display: flex;
+    }
+    #c1{
+        border: solid;
+    }
+    #c2{
+        border: solid;
+        margin-left: 20px;
+    }
+    #c3{
+        border: solid;
+        margin-left: 20px;
+    }
+
+    .accordion-button {
+        background-color: #cfbaf0 ;
+        border: solid;
+    }
+    .nav-link:hover{
+        background-color: rgb(141, 94, 6);
+        transition: 0.5s ease-in-out;
+        
+
+    }
+    #cp1{
+        border: solid;
+        padding-top: 30px;
+    }
+    #img1{
+        border: solid;
+        border-radius: 50px;
+    }
